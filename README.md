@@ -1,0 +1,1 @@
+# coding-school-assignment-6
